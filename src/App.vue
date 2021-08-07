@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Logo" src="https://hochiminhcity.equatorial.com/wp-content/uploads/sites/7/2014/10/2020-04-15_hehcmc-premier-balcony.jpg">
+  <HelloWorld msg="Welcome to Be My Room"/>
 </template>
 
 <script>
@@ -22,5 +22,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+img {
+  height: 500px;
+  
 }
 </style>
