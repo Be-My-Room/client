@@ -21,6 +21,7 @@ h2 {
   margin: 40px 0 0;
   color: #42b983;
   letter-spacing: 5px;
+  
 }
 h1 {
   color: #42b983;
